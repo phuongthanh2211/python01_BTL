@@ -1,0 +1,67 @@
+
+
+adminstrator@DESKTOP-L5LMA5R MINGW64 ~/Desktop
+
+$ ssh pyuser@192.168.92.128
+
+pyuser@192.168.92.128's password:
+
+
+
+Welcome to Ubuntu 18.04.2 LTS (GNU/Linux 4.15.0-60-generic x86_64)
+
+
+
+ * Documentation:  https://help.ubuntu.com
+
+ * Management:     https://landscape.canonical.com
+
+ * Support:        https://ubuntu.com/advantage
+
+
+
+  System information as of Sat Sep 14 12:52:20 UTC 2019
+
+
+
+  System load:  0.32               Processes:            153
+
+  Usage of /:   12.4% of 39.12GB   Users logged in:      1
+
+  Memory usage: 16%                IP address for ens33: 192.168.92.128
+
+  Swap usage:   0%
+
+
+
+ * Congrats to the Kubernetes community on 1.16 beta 1! Now available
+
+   in MicroK8s for evaluation and testing, with upgrades to RC and GA
+
+
+
+     snap info microk8s
+
+
+
+97 packages can be updated.
+
+0 updates are security updates.
+
+
+
+
+
+*** System restart required ***
+
+Last login: Sat Sep 14 11:04:39 2019
+
+pyuser@pythonact:~$
+
+pyuser@pythonact:~$
+
+pyuser@pythonact:~$ history
+
+    1  ifconfig
+
+    2  ping google.
